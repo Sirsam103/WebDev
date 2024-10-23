@@ -3,7 +3,7 @@ const os = require('os');
 
 const hostname = os.hostname();
 const platform = os.platform();
-const cpus = JSON.stringify(os.cpus(), null, 2);
+const cpus = os.cpus();
 
 const data = `
 Hostname: ${hostname}
