@@ -1,0 +1,225 @@
+
+Hostname: DESKTOP-NVMK45D
+Platform: win32
+CPUs: [
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 120125,
+      "nice": 0,
+      "sys": 102343,
+      "idle": 7647375,
+      "irq": 2296
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 4828,
+      "nice": 0,
+      "sys": 10203,
+      "idle": 7854687,
+      "irq": 62
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 72906,
+      "nice": 0,
+      "sys": 56031,
+      "idle": 7740781,
+      "irq": 859
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 4484,
+      "nice": 0,
+      "sys": 10062,
+      "idle": 7855171,
+      "irq": 46
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 45000,
+      "nice": 0,
+      "sys": 93406,
+      "idle": 7731296,
+      "irq": 7453
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 4171,
+      "nice": 0,
+      "sys": 9640,
+      "idle": 7855890,
+      "irq": 46
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 29531,
+      "nice": 0,
+      "sys": 18984,
+      "idle": 7821187,
+      "irq": 265
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 2984,
+      "nice": 0,
+      "sys": 15359,
+      "idle": 7851343,
+      "irq": 15
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 646156,
+      "nice": 0,
+      "sys": 479531,
+      "idle": 6744000,
+      "irq": 70593
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 21687,
+      "nice": 0,
+      "sys": 17656,
+      "idle": 7830343,
+      "irq": 62
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 20453,
+      "nice": 0,
+      "sys": 13859,
+      "idle": 7835359,
+      "irq": 296
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 3453,
+      "nice": 0,
+      "sys": 5593,
+      "idle": 7860625,
+      "irq": 31
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 392531,
+      "nice": 0,
+      "sys": 314312,
+      "idle": 7162828,
+      "irq": 55343
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 16046,
+      "nice": 0,
+      "sys": 13750,
+      "idle": 7839859,
+      "irq": 46
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 13156,
+      "nice": 0,
+      "sys": 12312,
+      "idle": 7844187,
+      "irq": 203
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 2000,
+      "nice": 0,
+      "sys": 2562,
+      "idle": 7865093,
+      "irq": 31
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 727937,
+      "nice": 0,
+      "sys": 368515,
+      "idle": 6773187,
+      "irq": 16906
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 779984,
+      "nice": 0,
+      "sys": 373187,
+      "idle": 6716468,
+      "irq": 11171
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 804906,
+      "nice": 0,
+      "sys": 384203,
+      "idle": 6680531,
+      "irq": 10578
+    }
+  },
+  {
+    "model": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "speed": 3610,
+    "times": {
+      "user": 815562,
+      "nice": 0,
+      "sys": 414406,
+      "idle": 6639671,
+      "irq": 9937
+    }
+  }
+]
