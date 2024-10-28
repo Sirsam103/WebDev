@@ -43,7 +43,7 @@ function findById(id) {
   }
 }
 
-function updateOneById(id, updatedData) {
+const updateOneById = (id, updatedData) => {
   const pet = findById(id);
   if (pet) {
     // Update properties only if provided in updatedData

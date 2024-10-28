@@ -1,4 +1,4 @@
-const Pet = require("./petLib");
+const Pet = require("./utilities");
 
 // GET /pets
 const getAllPets = (req, res) => {
