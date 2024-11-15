@@ -29,7 +29,7 @@ app.put("/pets/:petId", updatePet);
 // DELETE /pets/:petId
 app.delete("/pets/:petId", deletePet);
 
-const port = 4000;
+const port = 4001;
 // Start the server
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
